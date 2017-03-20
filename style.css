@@ -1,0 +1,96 @@
+/*
+Theme Name: Night Class Lesson
+Author: Brad &amp; Class
+Version: 1.0
+*/
+
+body {
+  font-family: sans-serif;
+}
+
+p {
+  line-height: 1.65;
+  margin: 0 0 1.65rem 0;
+}
+
+.container {
+  max-width: 950px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.site-header h1 {
+  font-size: 3rem;
+  font-weight: normal;
+  margin: 0 0 1.2rem 0;
+}
+
+.site-header h1 a {
+  color: #ed8b0b;
+}
+
+.site-header h1 a:hover {
+  color: #bc6e05;
+}
+
+.site-header {
+  border-bottom: 1px solid #999999;
+}
+
+.site-header ul {
+  margin: 0;
+  padding: 0;
+}
+
+.site-header li {
+  list-style: none;
+  display: inline-block;
+  padding-right: 15px;
+}
+
+.site-header li a {
+  display: inline-block;
+  text-decoration: none;
+  color: #04b8bc;
+  padding: 6px;
+  font-weight: bold;
+}
+
+.site-header li a:hover,
+.site-header .current-menu-item a {
+  color: #51eaff;
+}
+
+.item-title {
+  font-size: 2.2rem;
+  font-weight: normal;
+  margin: .75rem 0;
+}
+
+.site-footer {
+  border-top: 1px solid #999999;
+  padding-top: 15px;
+  font-size: 0.85rem;
+  color: #999;
+}
+
+.site-footer ul {
+  margin: 0;
+  padding: 0 0 15px 0;
+}
+
+.site-footer li {
+  list-style: none;
+  display: inline-block;
+  padding-right: 15px;
+}
+
+.site-footer li a {
+  display: inline-block;
+  padding: 3px;
+  color: #ed8b0b;
+}
+
+.site-footer li a:hover {
+  color: #555555;
+}
